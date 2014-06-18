@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="hello">Hello World</string>
+    <string name="app_name">MonitorLog</string>
+    <string name="copyright">by @johnnatan20</string>
+    <string name="title">MonitorLog</string>
+    <string name="button_stop">Stop</string>
+    <string name="button_start">Start</string>
+    <string name="info">O MonitorLog é um aplicativo para análises desenvolvido por Johnnatan Messias.</string>
+</resources>
